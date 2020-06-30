@@ -4,5 +4,5 @@ class Dog
   end
 end
 
-snoopy = Dog.new
-snoopy.name = "Snoopy"
+fido = Dog.new
+fido.name = "Fido"
